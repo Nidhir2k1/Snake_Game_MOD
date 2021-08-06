@@ -5,5 +5,9 @@
 created random distractions for  Difficulty and much Fun !!</strong>
 
 
-## Screenshots
+## LIVE DEMO
+<div align="center">
+<img src="snake_game.gif">
+<p>Live demo</p>
+</div>
 
